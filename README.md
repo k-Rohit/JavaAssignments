@@ -14,9 +14,10 @@ This is a program which allows user to perform various operations like -
 #### The various clases used in the program are - 
 <ol>
 <li> UserInput - This class contains the functions for taking the input from the user - numbers and array</li>
-<li> Calculator - This class contains all the functions to perform the various operations mentioned above - <li>
- <li>Main - This class contains the main method to run the whole program , using the functions from all the classes
+<li> Calculator - This class contains all the functions to perform the various operations mentioned above - </li>
+ <li> Main - This class contains the main method to run the whole program , using the functions from all the classes</li>
    <ol>
+    <li> The various functions used in the program are - </li>
       <li> void addition(int number) - This will take the input(numbers) from the users until the user enters the termination condition and a sum variable will hold the sum of the previous numbers and adding the next number to it.</li>
       <li> void subtraction(int number) - This will take the input(numbers) from the users until the user enters the termination condition and a difference variable will hold the difference of the previous numbers and subtracting the the next number from the difference.</li>
       <li> void multiplication(int number) - This will take the input(numbers) from the users until the user enters the termination condition and a result variable initialised to one will hold the result of the multiplication of the previous numbers and multiplying the next number to it.</li>
