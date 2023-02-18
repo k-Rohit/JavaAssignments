@@ -12,7 +12,7 @@ This is a program which allows user to perform various operations like -
 7. Standard Deviation of the array
 
 #### The various clases used in the program are - 
-
+<ol>
 1. UserInput - This class contains the functions for taking the input from the user - numbers and array
 2. Calculator - This class contains all the functions to perform the various operations mentioned above - 
    <ol>
@@ -21,3 +21,4 @@ This is a program which allows user to perform various operations like -
 
 
 </ol>
+   <ol>
