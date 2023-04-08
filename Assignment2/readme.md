@@ -32,8 +32,8 @@ versa.
          This function takes and arraylist as asn input and then stores the elements in the list
          into an array.
          
-      4.void ArrayToList_ListToArray(int[] arr, ArrayList<Integer> arrayList)
-        Function to convert an array into ArrayList
-        This function converts takes array as input and then adds each of 
-        the element in the list.
+ 4.void ArrayToList_ListToArray(int[] arr, ArrayList<Integer> arrayList)
+   Function to convert an array into ArrayList
+   This function converts takes array as input and then adds each of 
+   the element in the list.
         
