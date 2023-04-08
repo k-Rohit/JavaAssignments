@@ -13,7 +13,7 @@ index of the 1st number.
 3. Write a Java program to convert an array into ArrayList and vice
 versa.
 
-* The program contains 3 java files* -
+The program contains 3 java files -
 1. UserInput - For taking the input of array from the user
 2. Main - containing the main method
 3. Functions - Contains all the required function -
